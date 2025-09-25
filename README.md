@@ -1,4 +1,4 @@
-# ![ShopEasy Logo](https://via.placeholder.com/40) ShopEasy - Product Management
+# ShopEasy Logo(https://via.placeholder.com/40) ShopEasy - Product Management
 
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![PHP](https://img.shields.io/badge/PHP-8.1-blue)]()
